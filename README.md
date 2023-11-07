@@ -1,4 +1,7 @@
 # Telewallet
 Decentralized application (dApp) written in React and working with NFT
 Demo: https://digit-idea.github.io/telewallet/
-<img src="https://user-images.githubusercontent.com/56224288/187073749-615feb8b-7fcf-4e84-a035-fd94e1e44506.jpg" width="500">
+
+<img src="https://github.com/Digit-Idea/telewallet/assets/56224288/9bb33967-b1c0-42be-8518-d0ea1c0b91e8" width="500">
+
+
